@@ -1,3 +1,9 @@
 I am choosing not to upload the visual studio solution of this project due to locking it down to a windows platform.
 If you would like for me to upload a vs project then just contact me and I will upload it in a separate repository 
 entitled 'Bacterium-VS2010'
+
+Ryan: 
+Suggestion: Have a builds folder. Inside this will have builds of this project for each OS.
+Example of folder structure:
+Builds -> Windows -> Bacterium.sln
+       -> Linux -> ...

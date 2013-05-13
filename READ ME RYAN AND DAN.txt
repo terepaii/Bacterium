@@ -7,3 +7,8 @@ Suggestion: Have a builds folder. Inside this will have builds of this project f
 Example of folder structure:
 Builds -> Windows -> Bacterium.sln
        -> Linux -> ...
+
+Steve:
+That is a good suggestion Ryan, we could also have an executable folder as well.
+Sidenote: Myself and Dan will be working on finalising the game at some point over the coming weeks.
+          We'll update you once we have this done.
